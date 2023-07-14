@@ -29,7 +29,7 @@ const ValidacaoPage = () => {
             Buscar
           </button>
         </div>
-        <button className="mt-4 text-white" onClick={() => window.history.back()}>
+        <button className="mt-4 text-black" onClick={() => window.history.back()}>
           Voltar ao Menu
         </button>
       </div>
